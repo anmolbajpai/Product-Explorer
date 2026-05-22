@@ -19,7 +19,11 @@ CSS
 📱 Responsive UI Design
 📸 Screenshots
 
-![Home page](image.png)
+<img width="1917" height="881" alt="Screenshot 2026-05-22 130116" src="https://github.com/user-attachments/assets/272c5cec-80b1-4639-8f1c-aa71f38ea84b" />
+
+<img width="1913" height="870" alt="image" src="https://github.com/user-attachments/assets/43917238-6404-48f8-97fa-c0e7d8ac4df3" />
+
+
 
 ⚙️ Installation & Setup
 
